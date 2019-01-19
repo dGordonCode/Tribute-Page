@@ -1,0 +1,44 @@
+img {
+    max-width:100%;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    display: block;
+    align: center;
+  }
+  
+  figcaption {
+    text-align: center;
+  }
+  
+  main {
+    background: lightgrey;
+  }
+  
+  li {
+    text-align: center;
+    display: block;
+    font-family: 'Thasadith', sans-serif;
+  }
+  
+  p {
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+  }
+  
+  h1 {
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+  }
+  
+  h3 {
+    text-align: center;
+    font-family: 'Thasadith', sans-serif;
+  }
+  
+  blockquote {
+    font-family: 'Thasadith', sans-serif;
+    text-align: center;
+  }
+  
+  
